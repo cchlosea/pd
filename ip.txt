@@ -26,3 +26,5 @@ yolov3.weights download by patrick013/Object-Detection
 yolov3
 
 https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
+
+https://www.canva.com/design/DAG3yeWegXI/KwmKQbHwPN2SXloOC6U8oQ/view?utm_content=DAG3yeWegXI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf62a22d57d
