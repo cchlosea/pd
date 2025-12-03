@@ -1,4 +1,4 @@
-linear layout: 
+linear layout: radiogroup
 
 ( activity main xml )
 <?xml version="1.0" encoding="utf-8"?>
